@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "430371974709",
+    "firebase_url": "https://market-advisory.firebaseio.com",
+    "project_id": "market-advisory",
+    "storage_bucket": "market-advisory.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430371974709:android:6d6fb6a5aed5d01a61cb7c",
+        "android_client_info": {
+          "package_name": "com.example.project_stock_market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430371974709-ito52a2hf9e8l1su3gtpeoir5m3hnlar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgNHNwlBZSLCb_mFXVUqMix8a6Tap4JOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430371974709-ito52a2hf9e8l1su3gtpeoir5m3hnlar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
