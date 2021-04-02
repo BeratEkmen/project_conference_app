@@ -4,12 +4,26 @@ project_conference_app
 Currently an incompleted Flutter app that works like Telegram Channels.
 
 ## Screens
-<p float="left">
+
+
 <img src="https://user-images.githubusercontent.com/69195180/113423246-c60da700-93d6-11eb-9b34-e94b805732da.jpeg" width = 200>
+
+Sign in screen. User can request a password reset or toggle the "Remember Me" button to enter the app without signing in. If user enters an incorrect password 
+or the email doesn't belong to an authorised user the user will be notified with a flushbar and if the user's email has not been verified yet the user will be taken
+to verify email screen instead of the main screen.
+
 <img src="https://user-images.githubusercontent.com/69195180/113423249-c6a63d80-93d6-11eb-8883-85e3733d1651.jpeg" width = 200>
+
+Sign up screen. Users' and messages' data are stored at Google's Firebase platform.
+
 <img src="https://user-images.githubusercontent.com/69195180/113423250-c73ed400-93d6-11eb-90d9-0324bebbc0af.jpeg" width = 200>
+
+Main screen from Admin's view.
+
 <img src="https://user-images.githubusercontent.com/69195180/113423251-c73ed400-93d6-11eb-9767-4af7255328f6.jpeg" width = 200>
-</p>
+
+Main screen from user's view. Doesn't have a textbar. Tapping a message directs the user to details screen for that message. Users can tap "Scroll to top" widget to
+return to the latest messages also they can log out from the top-left menu bar.
 
 ## Credits
 * Design https://dribbble.com/shots/5871600-Login-screen-UI-Design/attachments/5871600-Login-screen-UI-Design?mode=media
